@@ -6,3 +6,6 @@ Testing my understanding of git using Tower for Mac.
 ***Thanks Tower***
 
 This works really great!
+
+* Next Change
+* Other
