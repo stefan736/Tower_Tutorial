@@ -8,3 +8,4 @@ Testing my understanding of git using Tower for Mac.
 This works really great!
 
 * Next Change
+* Other
