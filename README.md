@@ -1,11 +1,6 @@
 # Tower_Tutorial
 Testing my understanding of git using Tower for Mac.
 
-* Also using markdown :)
+Okay so i learned a lot by trying all the things from the great Tower Learning Book.
 
-***Thanks Tower***
-
-This works really great!
-
-* Next Change
-* Other
+Thanks!
